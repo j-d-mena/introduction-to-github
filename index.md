@@ -8,3 +8,6 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![Image of funny lama](https://parade.com/.image/t_share/MTkwNTgxMTA1NjY0NDAyNTU3/funny-pictures.jpg)
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
